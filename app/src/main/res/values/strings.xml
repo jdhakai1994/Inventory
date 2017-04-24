@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Inventory</string>
+
+    <string name="add_product">Add Product</string>
+    <string name="display_product">Product Details</string>
+
+    <string name="decrease_quantity">Decrease Quantity By One</string>
+
+    <string name="welcome_text1">There are no products to be displayed.</string>
+    <string name="welcome_text2">Tap the FAB below to add a product.</string>
+
+    <string name="label_product_name">Name</string>
+    <string name="hint_product_name">Redmi Note 2</string>
+    <string name="label_product_price">Price</string>
+    <string name="hint_product_price">6499</string>
+    <string name="label_product_quantity">Quantity</string>
+    <string name="hint_product_quantity">3</string>
+    <string name="label_supplier_contact">Supplier Contact</string>
+    <string name="hint_supplier_contact">Email-Id/Telephone</string>
+    <string name="label_product_image">Image</string>
+    <string name="track_sale">Track Sale</string>
+    <string name="receive_shipment">Receive Shipment</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="dialog_title_increase_quantity">No Of Items Received</string>
+    <string name="dialog_title_decrease_quantity">No Of Items Sold</string>
+    <string name="delete_dialog_msg">Delete this mobile?</string>
+
+    <string name="mobile_deleted_failure">Mobile Details couldn\'t be deleted</string>
+    <string name="mobile_deleted_success">Mobile Details has been deleted successfully</string>
+    <string name="mobile_updated_failure">Mobile Details couldn\'t be updated</string>
+    <string name="mobile_updated_success">Mobile Details has been updated successfully</string>
+    <string name="mobile_insert_failure">Mobile Details couldn\'t be saved successfully</string>
+    <string name="mobile_insert_success">Mobile Details saved successfully</string>
+
+    <string name="image_missing">Please pick an Image from Gallery.</string>
+</resources>
